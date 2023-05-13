@@ -4,7 +4,7 @@ class Ajax extends MY_Controller {
 
   function __construct() {
       parent::__construct(); //date_default_timezone_set('Asia/Calcutta');  
-      if(!$this->input->is_ajax()) {  //redirect(base_url(), 'refresh'); }
+      //if(!$this->input->is_ajax()) {  //redirect(base_url(), 'refresh'); }
   }
 
   public function is_ajax() {
