@@ -2,8 +2,9 @@
 Very lightweight, easy to handle, easy to implementation, starting from 0 level
 I merge model and controller
 Include database also
+Working with SQL server and Mysql
 
-## Also working with SQL server
+## Working with SQL server
 You need to install 2 dll in your php version and also enable in php.ini
 1. php_sqlsrv_[php-version]_nts_x64.dll
 2. php_sqlsrv_[php-version]_ts_x64.dll
